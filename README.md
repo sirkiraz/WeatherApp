@@ -23,7 +23,7 @@ In addition to these steps, you may also need to do the following:
 
 • Debug your app if you encounter any issues. Xcode includes a debugger that you can use to set breakpoints and step through your code to find and fix problems.
 
-**• NOTE: That this is just a basic skeleton example, and you can add more functionality and features to your weather app as needed.**
+**NOTE: That this is just a basic skeleton example, and you can add more functionality and features to your weather app as needed.**
 
 # <img width="30" align="center" src="https://cdn2.iconfinder.com/data/icons/love-love-love/94/two_hearts-512.png"> Thanks for: 
 
