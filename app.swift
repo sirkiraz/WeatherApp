@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         }
 
         // 2. Make a request to the weather API using the city name
-        let url = URL(string: "API")!
+        let url = URL(string: "YOUR-API-KEY")!
         let task = URLSession.shared.dataTask(with: url) { [weak self] data, response, error in
             // 3. Parse the response data
             if let data = data {
